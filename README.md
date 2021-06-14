@@ -2,6 +2,8 @@
 
 Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/pflegende/r/master?filepath=index.ipynb)
 
+Jupyter+R Lab: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/pflegende/r/master?urlpath=lab/tree/index.ipynb)
+
 RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/pflegende/r/master?urlpath=rstudio)
 
 RShiny: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/pflegende/r/master?urlpath=shiny/bus-dashboard/)
